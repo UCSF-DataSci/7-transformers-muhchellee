@@ -1,0 +1,79 @@
+# Prompt Engineering Results
+
+## Question: What foods should be avoided by patients with gout?
+
+### Zero-shot response:
+fatty foods
+
+### One-shot response:
+fatty foods
+
+### Few-shot response:
+Foods that are not a source of gout include fatty foods such as fatty foods such as fatty foods such as fatty foods such as fatty foods such as fatty foods such as fatty foods such as fatty foods such as fatty foods such as fatty foods such as 
+
+--------------------------------------------------
+
+## Question: What medications are commonly prescribed for gout?
+
+### Zero-shot response:
+gout medication
+
+### One-shot response:
+Gout medications include:
+
+### Few-shot response:
+Gout medications include:
+
+--------------------------------------------------
+
+## Question: How can gout flares be prevented?
+
+### Zero-shot response:
+Using a sand paper towel to dry the gout
+
+### One-shot response:
+Gout flares can be prevented by a syringe.
+
+### Few-shot response:
+Gout flares can be prevented by using a syringe or a syringe.
+
+--------------------------------------------------
+
+## Question: Is gout related to diet?
+
+### Zero-shot response:
+gout is a common food in the diet.
+
+### One-shot response:
+Gout is a common food in the diet.
+
+### Few-shot response:
+Gout is a common dietary disorder.
+
+--------------------------------------------------
+
+## Question: Can gout be cured permanently?
+
+### Zero-shot response:
+no
+
+### One-shot response:
+No, it is not possible to treat gout.
+
+### Few-shot response:
+It is a condition that is not treated with a syringe.
+
+--------------------------------------------------
+
+## Scores
+
+question,zero_shot,one_shot,few_shot
+what_foods_should_be,0.00,0.00,0.00
+what_medications_are,0.00,0.00,0.00
+how_can_gout_flares_,0.00,0.00,0.00
+is_gout_related_to_d,0.17,0.17,0.00
+can_gout_be_cured_pe,0.00,0.00,0.00
+
+average,0.03, 0.03, 0.00
+best_method,zero_shot
+```

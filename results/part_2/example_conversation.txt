@@ -1,0 +1,22 @@
+# LLM Chat Tool Test Results
+
+## Usage Examples
+
+```bash
+# Run the one-off chat
+python utils/one_off_chat.py
+
+# Run the contextual chat
+python utils/conversation.py
+```
+
+## Test Results
+
+```csv
+question,response
+What are the symptoms of gout?,gout is a common symptom of gout.
+How is gout diagnosed?,gout is a common condition in people with gout.
+What treatments are available for gout?,gout treatment
+What lifestyle changes can help manage gout?,a diet that includes a diet that includes a diet that includes a diet that includes a diet that includes a diet that includes a diet that includes a diet that includes a diet that includes a diet that includes a diet that includes a diet that includes a diet that includes a diet that includes a diet that includes a diet that includes a diet that includes a diet that includes a diet that includes a diet that includes
+What foods should be avoided with gout?,gout
+```
